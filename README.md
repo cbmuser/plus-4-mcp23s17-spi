@@ -12,7 +12,9 @@ SPI example for the Commodore Plus/4 Userport
 For this tiny example use the following connections:
 
 P0: CLK
+
 P1: CS
+
 P2: MOSI (SI)
 
 A0 to A2 are connected to GND using hardware addressing mode at $40.
