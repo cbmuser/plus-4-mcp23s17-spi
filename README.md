@@ -1,7 +1,12 @@
 # plus-4-mcp23s17-spi
 
 SPI example for the Commodore Plus/4 Userport
+
+
+
 ![Screenshot](https://github.com/cbmuser/plus-4-mcp23s17-spi/blob/main/p4_breadboard.jpg)
+
+
 
 
 For this tiny example use the following connections:
