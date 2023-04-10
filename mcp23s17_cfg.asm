@@ -26,5 +26,3 @@ register  = $0d   ; register to use
 value     = $0e   ; value for register
 t_lo      = $d8   ; storage
 t_hi      = $d9   ;
-
-
